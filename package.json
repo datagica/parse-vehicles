@@ -2,7 +2,7 @@
   "name": "@datagica/parse-vehicles",
   "version": "0.0.2",
   "description": "Extract vehicles from text",
-  "main": "./lib/index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "jest"
   },
